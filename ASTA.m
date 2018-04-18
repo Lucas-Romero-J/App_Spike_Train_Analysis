@@ -57,9 +57,9 @@ if COND2==1
   First_spikes_freq=First_spikes(2:end); %New vector without the initial zero to calculate mean interburst frequency
   MINTER=mean(First_spikes_freq);
   SDINTER=std(First_spikes_freq); 
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   %%%%%%%%%%%%Analysis of spikes per burst and burst length%%%%%%%%%%%%%%%%%%%%
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   Times_Burst=times(VC_Burst);%Timestamps of every spike within a burst (excepting the first spike of each burst)
   LTB=length(Times_Burst);
   series1=1;
