@@ -18,6 +18,7 @@ For a more detailed description of some of these neuronal classes see: https://w
 Roza, C. et al. Analysis of spontaneous activity of superficial dorsal horn neurons in vitro: neuropathy-induced changes. Pflügers Archiv - European Journal of Physiology 468, 2017–2030 (2016).
 
 This program was developed in the context of this work, where every neuronal class description is also provided: https://www.ncbi.nlm.nih.gov/pubmed/29950700. Lucas-Romero, J., Rivera-Arconada, I., Roza, C. & Lopez-Garcia, J. A. Origin and classification of spontaneous discharges in mouse superficial dorsal horn neurons. Sci. Rep. 8, 9735 (2018)
+
 Please reference it in your publication if this software has been useful to you.
 For any doubt or request you can address to Javier Lucas-Romero, Department of Systems Biology, Universidad de Alcala, Alcala de Henares, 28871, Madrid, Spain. javierdelucas7@hotmail.com
 
