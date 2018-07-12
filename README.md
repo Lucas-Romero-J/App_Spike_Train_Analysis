@@ -17,7 +17,7 @@ The parameter to measure regularity was the coefficient of variation (CV), under
 For a more detailed description of some of these neuronal classes see: https://www.ncbi.nlm.nih.gov/pubmed/27726011 
 Roza, C. et al. Analysis of spontaneous activity of superficial dorsal horn neurons in vitro: neuropathy-induced changes. Pflügers Archiv - European Journal of Physiology 468, 2017–2030 (2016).
 
-This program was developed in the context of a work which will be added here once published. Please reference it in your publication if this software has been useful to you.
+This program was developed in the context of this work: https://www.ncbi.nlm.nih.gov/pubmed/29950700. Please reference it in your publication if this software has been useful to you.
 For any doubt or request you can address to Javier Lucas-Romero, Department of Systems Biology, Universidad de Alcala, Alcala de Henares, 28871, Madrid, Spain. javierdelucas7@hotmail.com
 
 
